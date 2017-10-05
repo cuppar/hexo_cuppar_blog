@@ -6,6 +6,7 @@ categories:
 	- 编程
 	- HEXO
 ---
+# 这是一个草稿，测试代码用的，请略过。
 {% blockquote cuppar,百度 https://www.baidu.com/ 百度的链接 %}
 这是一个引用。
 {% endblockquote %}
